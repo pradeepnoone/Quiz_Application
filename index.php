@@ -76,7 +76,7 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
 </div><!-- /.modal -->
 <!--sign in modal closed-->
 
-</div><!--header row closed-->
+</div><!--header row closedffffffffffff-->
 </div>
 
 <div class="bg1">
