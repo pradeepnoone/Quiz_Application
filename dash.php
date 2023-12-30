@@ -58,7 +58,7 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
 <!--navigation menu-->
 <nav class="navbar navbar-default title1">
   <div class="container-fluid">
-    <!-- Brand and toggle get grouped for betnnnnnnnnnnter mobile display -->
+    <!-- Brand and toggle get grouped for mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
